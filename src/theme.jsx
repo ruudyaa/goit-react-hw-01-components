@@ -2,12 +2,12 @@ export const theme = {
   colors: {
     black: '#000',
     white: '#fff',
-    text: '#2a2a2a',
-    background: '#e9edff',
-    primary: '#2b3162',
-    secondary: '#1a236a;',
-    accent: '#9e0202',
-    muted: '#dddff8',
+    text: '#3d5467',
+    background: '#f2f5ea',
+    primary: '#2c363f',
+    secondary: '#6e9887',
+    accent: '#e75a7c',
+    muted: '#bbc7a4',
   },
   space: [0, 2, 4, 8, 16, 32, 64, 128, 256],
   fonts: {
