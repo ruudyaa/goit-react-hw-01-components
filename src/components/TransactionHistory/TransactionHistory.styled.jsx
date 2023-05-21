@@ -15,7 +15,7 @@ export const Tr = styled.tr``;
 
 export const ThTitle = styled.th`
   border: 1px solid grey;
-  background-color: ${props => props.theme.colors.primary};
+  background-color: ${props => props.theme.colors.accent};
   color: ${props => props.theme.colors.white};
 `;
 

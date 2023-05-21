@@ -75,10 +75,6 @@ export const StatisticsItem = styled.li`
   justify-content: center;
   flex-direction: column;
   width: 100%;
-
-  &:hover {
-    box-shadow: inset -3px -3px 7px #ffffff, inset 3px 3px 5px #ceced1;
-  }
 `;
 
 export const StatsInfo = styled.span`

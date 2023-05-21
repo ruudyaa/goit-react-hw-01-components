@@ -40,7 +40,7 @@ export const Image = styled.img`
 
 export const Name = styled.p`
   margin-left: 10px;
-  color: #9e0202;
+  color: ${props => props.theme.colors.accent};
   text-shadow: 1px 1px 1px #fff;
   font-size: 16px;
   font-weight: 700;
